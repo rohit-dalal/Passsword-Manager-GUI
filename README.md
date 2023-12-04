@@ -1,4 +1,4 @@
-## Passsword-Manager-GUI
+## Passsword-Manager
 
 Version 1.0.0
 
