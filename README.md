@@ -5,10 +5,10 @@ Version 1.0.0
 ### Key and DB path:
 
 #### Windows:
-`C:\Users\<username>\.PassManager`
+`C:\Users\<username>\.PasswordManager`
 
 #### Linux:
-`/home/<username>/.PassManager`
+`/home/<username>/.PasswordManager`
 
 ### Why should you use it?
 - Free
