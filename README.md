@@ -21,7 +21,7 @@ Version 1.0.0
 ## Creator:
 Rohit
 
-Connect via [LinkedIn](https://www.linkedin.com/in/rohit-904537136/)
+Connect via [LinkedIn](https://www.linkedin.com/in/rohit-dala1/)
 
 This project was created only for educational purposes and for personal and open-source use.
 
